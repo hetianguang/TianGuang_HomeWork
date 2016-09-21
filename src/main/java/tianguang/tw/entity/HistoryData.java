@@ -8,7 +8,7 @@ import java.util.Map;
  */
 public class HistoryData {
     private int totalAnimal;
-    public static Map<String , ATimeData> commodityInfomap = new HashMap<String , ATimeData>();
+    public static Map<String , ATimeData> historyData = new HashMap<String , ATimeData>();
 
     public int getTotalAnimal() {
         return totalAnimal;
