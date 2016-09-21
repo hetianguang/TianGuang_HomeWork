@@ -1,4 +1,4 @@
-package entity;
+package tianguang.tw.entity;
 
 import java.util.HashMap;
 import java.util.Map;
