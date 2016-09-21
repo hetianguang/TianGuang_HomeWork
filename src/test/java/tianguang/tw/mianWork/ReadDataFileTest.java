@@ -12,7 +12,7 @@ public class ReadDataFileTest {
     @Test
     public void the_content_of_file_read_return_is_3_when_have_three_time_record (){
         //Given
-        String path = this.getClass().getResource(".").getPath()+"//testData.txt";
+        String path = "testData.txt";
 
         //when
         ReadDataFile readDataFile =  new ReadDataFile();
