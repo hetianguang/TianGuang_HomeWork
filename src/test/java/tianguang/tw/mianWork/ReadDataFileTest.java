@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 /**
  * Created by He on 2016/9/22.
  */
-public class inputDataTest {
+public class ReadDataFileTest {
     @Test
     public void the_content_of_file_read_return_is_3_when_have_three_time_record (){
         //Given

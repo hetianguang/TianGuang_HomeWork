@@ -3,4 +3,5 @@ jdk:
   - oraclejdk8
 script:
   - ./gradlew -v
+   - ./gradlew debug
   - ./gradlew clean test
