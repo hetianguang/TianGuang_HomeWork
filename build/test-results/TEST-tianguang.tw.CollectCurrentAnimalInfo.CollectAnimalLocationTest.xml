@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tianguang.tw.CollectCurrentAnimalInfo.CollectAnimalLocationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-09-22T16:40:55" hostname="He-PC" time="0.0">
-  <properties/>
-  <testcase name="should_return_2_when_want_to_get_id_is_351055db_33e6_4f9b_bfe1_16f1ac446ac1" classname="tianguang.tw.CollectCurrentAnimalInfo.CollectAnimalLocationTest" time="0.0"/>
-  <testcase name="should_return_1_when_want_to_get_id_is_e4e87cb2_8e9a_4749_abb6_26c59344dfee" classname="tianguang.tw.CollectCurrentAnimalInfo.CollectAnimalLocationTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

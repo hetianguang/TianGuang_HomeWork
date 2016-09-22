@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tianguang.tw.CheckDataFormat.CheckLocationformatTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-09-22T16:40:55" hostname="He-PC" time="0.015">
-  <properties/>
-  <testcase name="should_return_false_when_the_location_record_format_also_is_false" classname="tianguang.tw.CheckDataFormat.CheckLocationformatTest" time="0.0"/>
-  <testcase name="should_return_false_when_the_location_record_format_is_false" classname="tianguang.tw.CheckDataFormat.CheckLocationformatTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

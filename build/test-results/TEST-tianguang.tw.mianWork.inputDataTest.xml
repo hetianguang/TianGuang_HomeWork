@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tianguang.tw.mianWork.inputDataTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-09-21T17:25:15" hostname="He-PC" time="0.019">
-  <properties/>
-  <testcase name="the_content_of_file_read_return_is_4_when_have_four_time_record" classname="tianguang.tw.mianWork.inputDataTest" time="0.017"/>
-  <testcase name="the_content_of_file_read_return_is_3_when_have_three_time_record" classname="tianguang.tw.mianWork.inputDataTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tianguang.tw.mianWork.ConvertArrayTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-09-22T16:40:55" hostname="He-PC" time="0.0">
-  <properties/>
-  <testcase name="should_get_a_time_animal_locaton_in_ATimeData_when_input_a_data" classname="tianguang.tw.mianWork.ConvertArrayTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
