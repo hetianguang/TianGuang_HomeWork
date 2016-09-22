@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tianguang.tw.CollectCurrentAnimalInfo.AddtoStringTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-09-22T16:40:55" hostname="He-PC" time="0.0">
+  <properties/>
+  <testcase name="should_return_a_10_when_input_a_group_animal_location_data" classname="tianguang.tw.CollectCurrentAnimalInfo.AddtoStringTest" time="0.0"/>
+  <testcase name="should_return_a_14_when_input_two_group_animal_location_data" classname="tianguang.tw.CollectCurrentAnimalInfo.AddtoStringTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

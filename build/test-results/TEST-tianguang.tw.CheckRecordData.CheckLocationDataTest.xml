@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tianguang.tw.CheckRecordData.CheckLocationDataTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-09-22T16:40:55" hostname="He-PC" time="0.0">
+  <properties/>
+  <testcase name="should_return_false_when_input_historyData_also_is_false" classname="tianguang.tw.CheckRecordData.CheckLocationDataTest" time="0.0"/>
+  <testcase name="should_return_true_when_input_historyData_is_ok" classname="tianguang.tw.CheckRecordData.CheckLocationDataTest" time="0.0"/>
+  <testcase name="should_return_false_when_input_historyData_is_false" classname="tianguang.tw.CheckRecordData.CheckLocationDataTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
